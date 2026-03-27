@@ -194,3 +194,11 @@ sudo systemctl status mysql
 - MySQL Source Code: https://github.com/mysql/mysql-server
 - GPL v2 Licence Text: https://spdx.org/licenses/GPL-2.0-only.html
 - MariaDB Foundation: https://mariadb.org/about/
+
+---
+
+**Created by:** Tanmay Joshi  
+**University:** VIT Bhopal University  
+**Year:** 2026
+
+This repository has been created as part of the Open Source Software (OSS NGMC) capstone project at VIT Bhopal University. All scripts and documentation in this repository are authored by Tanmay Joshi (Registration: 24BCE10381).
