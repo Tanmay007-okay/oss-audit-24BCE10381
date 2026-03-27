@@ -201,4 +201,5 @@ sudo systemctl status mysql
 **University:** VIT Bhopal University  
 **Year:** 2026
 
-This repository has been created as part of the Open Source Software (OSS NGMC) capstone project at VIT Bhopal University. All scripts and documentation in this repository are authored by Tanmay Joshi (Registration: 24BCE10381).
+This repository has been created as part of the Open Source Software (OSS NGMC) project at VIT Bhopal University. 
+All scripts and documentation in this repository are authored by Tanmay Joshi (Registration: 24BCE10381).
