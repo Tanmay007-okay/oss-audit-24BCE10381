@@ -20,7 +20,7 @@
 
 ## About This Repository
 
-This repository contains the five shell scripts submitted as part of The Open Source Audit capstone project.
+This repository contains the five shell scripts submitted as part of The Open Source Audit  project.
 
 For this project, I chose MySQL as the software to audit. Born in 1995 from a practical need for a free, fast database, MySQL became the 'M' in the LAMP stack and powered the first generation of the open web. It is dual-licensed under GPL v2 for community use and a commercial licence for proprietary integration.
 
